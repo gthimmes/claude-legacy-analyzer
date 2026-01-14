@@ -1,0 +1,4 @@
+# Minimal dependencies for helper tools
+# Most functionality uses Python standard library
+
+pyyaml>=6.0  # For optional config.yaml parsing
