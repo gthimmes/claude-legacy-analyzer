@@ -64,7 +64,7 @@ Helper Tools (Fast, Simple)          Claude's AI (Intelligent, Deep)
 
 ```bash
 # Install as Claude Code skill (one command!)
-/install https://github.com/yourusername/claude-legacy-analyzer
+/install https://github.com/gthimmes/claude-legacy-analyzer
 ```
 
 ### Usage
