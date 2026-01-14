@@ -1,0 +1,14 @@
+{
+  "name": "gthimmes",
+  "owner": {
+    "name": "gthimmes"
+  },
+  "plugins": [
+    {
+      "name": "legacy-analyzer",
+      "source": "./plugins/legacy-analyzer",
+      "description": "AI-powered legacy code analysis for any programming language",
+      "version": "1.0.0"
+    }
+  ]
+}

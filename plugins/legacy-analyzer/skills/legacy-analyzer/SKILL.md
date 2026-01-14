@@ -1,11 +1,5 @@
 # Legacy Code Modernization Skill
 
-## Installation
-
-```bash
-/install https://github.com/yourusername/claude-legacy-analyzer
-```
-
 ## Overview
 
 This skill enables me (Claude) to intelligently analyze and modernize legacy codebases **in ANY programming language**. I use lightweight helper tools to gather basic data, then apply my AI understanding to provide deep, contextual analysis and recommendations.

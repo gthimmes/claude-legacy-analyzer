@@ -62,8 +62,12 @@ reports/
 *.log
 analysis_report.md
 refactoring_plan.md
-*.json
-!config.yaml
+
+# Claude plugin JSON files (must be tracked)
+!.claude-plugin/
+!**/.claude-plugin/
+!.claude-plugin/*.json
+!**/.claude-plugin/*.json
 
 # Temporary files
 *.tmp
